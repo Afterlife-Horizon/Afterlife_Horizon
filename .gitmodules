@@ -1,6 +1,6 @@
-[submodule "AFHO_dicord_bot"]
-	path = AFHO_dicord_bot
-	url = git@github.com:nicobonnardot3/AFHO_dicord_bot.git
-[submodule "AFHOBotFrontend"]
-	path = AFHOBotFrontend
-	url = git@github.com:nicobonnardot3/AFHOBotFrontend.git
+[submodule "afho_backend"]
+	path = backend
+	url = git@github.com:nicobonnardot3/afho_backend.git
+[submodule "afho_frontend"]
+	path = frontend
+	url = git@github.com:nicobonnardot3/afho_frontend.git
