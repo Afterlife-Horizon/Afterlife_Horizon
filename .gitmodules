@@ -1,6 +1,9 @@
 [submodule "afho_backend"]
 	path = afho_backend
-	url = git@github.com:nicobonnardot3/afho_backend.git
+  url = git@github.com:nicobonnardot3/afho_backend.git
+[submodule "afho_go_backend"]
+	path = afho_go_backend
+	url = git@github.com:Afterlife-Horizon/afho_go_backend.git
 [submodule "afho_frontend"]
 	path = afho_frontend
 	url = git@github.com:nicobonnardot3/afho_frontend.git
